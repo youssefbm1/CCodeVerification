@@ -1,0 +1,13 @@
+fun main
+begin
+  int a = 7;
+  int b = 8;
+  int c = 9;
+  int  x;
+  if a == 8 then
+    x = a+b*c;
+  else
+    x = a;
+  end;
+  return x;
+end

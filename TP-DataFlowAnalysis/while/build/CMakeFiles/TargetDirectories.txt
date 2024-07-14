@@ -1,0 +1,4 @@
+/cal/exterieurs/benmbarek-23/Desktop/TP/S2/SE206/youssef-ben-mbarek/TP1/while/build/CMakeFiles/while-run.dir
+/cal/exterieurs/benmbarek-23/Desktop/TP/S2/SE206/youssef-ben-mbarek/TP1/while/build/CMakeFiles/while-analysis.dir
+/cal/exterieurs/benmbarek-23/Desktop/TP/S2/SE206/youssef-ben-mbarek/TP1/while/build/CMakeFiles/edit_cache.dir
+/cal/exterieurs/benmbarek-23/Desktop/TP/S2/SE206/youssef-ben-mbarek/TP1/while/build/CMakeFiles/rebuild_cache.dir

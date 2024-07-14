@@ -1,0 +1,41 @@
+// This file is part of While, an educational programming language and program
+// analysis framework.
+//
+//   Copyright 2023 Florian Brandner
+//
+// While is free software: you can redistribute it and/or modify it under the
+// terms of the GNU General Public License as published by the Free Software
+// Foundation, either version 3 of the License, or (at your option) any later
+// version.
+//
+// While is distributed in the hope that it will be useful, but WITHOUT ANY
+// WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+// A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License along with
+// While. If not, see <https://www.gnu.org/licenses/>.
+//
+// Contact: florian.brandner@telecom-paris.fr
+//
+
+fun fib(int n)
+begin
+  if n == 0 then
+    return 0;
+  else
+    if n == 1 then
+      return 1;
+    else
+      return fib(n + -1) + fib(n + -2);
+    end;
+  end;
+end
+
+fun main
+begin
+  int v;
+  v = fib(8);
+  printint(v);
+  return v == 21;
+end
+
